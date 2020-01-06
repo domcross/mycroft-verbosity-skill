@@ -1,0 +1,5 @@
+kritisch,CRITICAL
+fehler,ERROR
+warnung,WARNING
+info,INFO
+debug,DEBUG

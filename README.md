@@ -11,7 +11,8 @@ eg. for example, i would say “hey mycroft, in the cli, set verbosity to (norma
 * "Set log level to critical/error/warning/info/debug"
 
 ## Credits
-domcross (@dominik)
+* domcross (@dominik)
+* Mike MacIsaac (@mike99mac) - skill suggestion
 
 ## Category
 **Configuration**

@@ -1,0 +1,5 @@
+critical,CRITICAL
+error,ERROR
+warning,WARNING
+info,INFO
+debug,DEBUG
